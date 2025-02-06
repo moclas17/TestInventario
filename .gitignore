@@ -1,0 +1,3 @@
+# Ignorar archivos y carpetas recomendados
+.env
+node_modules/
